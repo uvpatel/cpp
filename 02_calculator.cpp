@@ -7,13 +7,10 @@ int main(){
     cin>> a ;
     cout<<"Enter your number: ";
     cin>> b ;
-    float sum;
+    float sum,sub,mul,div;
     sum = a + b;
-    float sub;
     sub = a-b;
-    float mul;
-    mul = a*b;
-    float div;
+    mul = a*b;
     div = a/b;
 
     cout<<"Your sum is: "<<sum<<endl<<"\n";
